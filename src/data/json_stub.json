@@ -1,0 +1,198 @@
+{
+    "basics": {
+        "name": "Ahmed Sbai",
+        "label": "Web/Mobile Developer",
+        "picture": "https://avatars1.githubusercontent.com/u/30757139?s=400&u=005c696c8ab063539f99415be4a7a065cbaa920c&v=4",
+        "email": "ahmedclubust@gmail.com",
+        "phone": "+216 27193585",
+        "website": "",
+        "summary": "A dedicated person who will never let you down",
+        "location": {
+            "address": "Cite el omrane",
+            "postalCode": "5000",
+            "city": "Monastir",
+            "countryCode": "TN",
+            "region": "Monastir"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "sbaihmed1",
+                "url": "http://github.com/sbaiahmed1"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Fiverr",
+            "position": "Freelancer",
+            "website": "http://fiverr.com",
+            "startDate": "2019-01-01",
+            "summary": "Full stack JS",
+            "location": "Tunis",
+            "username":"sbaihmed1"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Faculty Of Sciences Monastir",
+            "area": "Computer Science",
+            "studyType": "Bachelor Degree",
+            "startDate": "2016-09-15",
+            "endDate": "2020-06-01",
+            "courses": ["PLSQL - Basic SQL - HTML - CSS - JS"]
+        }
+    ],
+    "skills": [
+        {
+            "name": "ReactJS",
+            "level": "Intermediate",
+            "value": 75,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "HTML",
+            "level": "Master",
+            "value": 90,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "NodeJS",
+            "level": "Intermediate",
+            "value": 50,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Firebase",
+            "level": "Master",
+            "value": 70,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "PHP",
+            "level": "Intermediate",
+            "value": 70,
+            "keywords": ["HTML", "CSS", "PHP"]
+        }
+    ],
+    "languages": [
+        { 
+            "language": "English", "value": 80, "fluency": "Bilingual" 
+        },
+        {
+            "language":"Arabic", "value":100, "fluency":"Native speaker"
+        },
+        {
+            "language":"French", "value":70, "fluency":"Native speaker"
+
+        }
+        ],
+    "interests": [
+        {
+            "name": "Coding"
+        },
+        {
+            "name": "Dogs",
+            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+        },
+        {
+            "name": "Football"
+        },
+        {
+            "name": "Sports"
+        }
+    ],
+    "references": [{ "name": "Ahmed Sbai", "reference": "" }],
+    "projects": [
+        {
+            "name": "Association Management App",
+            "description": "App which can easily help any association to manage their events, polls, payments and more...",
+            "images": []
+        }
+    ],
+    "specific": {
+        "basics": {
+            "visaSponsorship": false,
+            "personalDescription": "Well , I'm not good at describing myself to be accurate , I'm a web/mobile developer , i use JavaScript, PHP, HTML, CSS and I'm quite good at them. I'll try my best so you will be satisfied and I'll never let you down"
+        },
+        "dreamJob": {
+            "locations": [{ "name": "California, USA" }, { "name": "Paris,France" }, { "name": "London, UK" }],
+            "remoteFrequency": "regularly"
+        },
+        "currentJob": {
+        },
+        "education": { "studiesLevel": 3 },
+        "work": {
+            "contractTypes": ["freelance"],
+            "codingYears": 4,
+            "codingReason": "I find coding as a passion!",
+            "searchState": "openOpportunities",
+            "experienceYears": 1
+        },
+        "sound": {
+            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1EjjAbGZLsEcxC"
+          },
+        "interestedBy": "ReactJS, React Native, Express and NodeJS"
+    },
+    "customization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#ffecf0",
+                    "100": "#ffd9e0",
+                    "200": "#ffb4c1",
+                    "300": "#fe8ea3",
+                    "400": "#fe6984",
+                    "500": "#fe4365",
+                    "600": "#cb3651",
+                    "700": "#98283d",
+                    "800": "#661b28",
+                    "900": "#330d14",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#fff5f5",
+                    "100": "#feebeb",
+                    "200": "#fed8d7",
+                    "300": "#fdc4c2",
+                    "400": "#fdb1ae",
+                    "500": "#fc9d9a",
+                    "600": "#ca7e7b",
+                    "700": "#975e5c",
+                    "800": "#653f3e",
+                    "900": "#321f1f",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#fefaf7",
+                    "100": "#fef5ef",
+                    "200": "#fdebde",
+                    "300": "#fbe1ce",
+                    "400": "#fad7bd",
+                    "500": "#f9cdad",
+                    "600": "#c7a48a",
+                    "700": "#957b68",
+                    "800": "#645245",
+                    "900": "#322923",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "dreamjob", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "gifs", "variant": 0 },
+            { "type": "interestedBy", "variant": 3 },
+            { "type": "language", "variant": 4 },
+            { "type": "soundtrack", "variant": 4 }
+        ]
+    }
+}
